@@ -1,4 +1,4 @@
-package com.tondilo.myapplicationx1;
+package com.tondilo.game;
 
 import org.junit.Test;
 
